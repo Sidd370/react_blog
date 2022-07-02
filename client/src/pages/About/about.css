@@ -1,0 +1,11 @@
+.about{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: 'Bebas Neue', cursive;
+    background: #fafafa;
+    position: fixed;
+    top: 0;
+    min-width: 100%;
+    max-width: 100%;
+}

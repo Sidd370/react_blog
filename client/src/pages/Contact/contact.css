@@ -1,0 +1,44 @@
+.contactPage{
+	background: linear-gradient(
+        rgba(255, 255, 255, 0.5),
+        rgba(255, 255, 255, 0.5)
+      ),
+      url("img8.jpg");
+    background-size: cover;
+}
+.section-title{
+	font-size: 2rem;
+	font-weight: 100;
+	color: black;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	text-align: center; 
+}
+.contactInfo{
+    font-size: 2rem;
+	font-weight: 100;
+	color: black;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	text-align: center; 
+}
+.emailInfo{
+	font-size: 2rem;
+	font-weight: 100;
+	color: black;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	text-align: center; 
+}
+.addressInfo{
+	font-size: 2rem;
+	font-weight: 100;
+	color: black;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	text-align: center; 
+}
